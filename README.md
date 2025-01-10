@@ -1,4 +1,4 @@
-Técnologia Utilizada: nodejs  e Express
+Técnologias Utilizadas: nodejs  e Express
 
 Passo a passo
 
