@@ -9,7 +9,9 @@ Abrir a pasta criada (Servidores)  no visual Studio code ou qualquer editor da p
 
 
 comandos: NPM INIT 
-comandos:NPM INSTALL -- SAVE EXPRESS 
+
+comandos:NPM INSTALL -- SAVE EXPRESS
+
 comando para iniciar o servidor:node index.js
 
 
