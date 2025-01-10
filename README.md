@@ -14,5 +14,7 @@ comando para iniciar o servidor:node index.js
 
 
 Acessar no navegador:http://localhost:8000/
-resultador esperado:
+
+
+Resultador esperado:
 Hello Worldnode, sejam todos bem vindos ao primeiro servidor
